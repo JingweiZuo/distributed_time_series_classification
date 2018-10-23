@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: eggtest
+Version: 0.1
+Summary: egg test demo
+Home-page: UNKNOWN
+Author: lidehong
+Author-email: idehong@gmail.com
+License: GPL
+Description: egg test demo
+Keywords: test,egg
+Platform: Independant
